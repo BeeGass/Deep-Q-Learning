@@ -12,7 +12,7 @@
 * [Really wonderful resource that shows side by side explanation of code](https://nn.labml.ai/rl/dqn/index.html)
 * [Another Great Tutorial With Code](https://arztsamuel.github.io/en/blogs/2018/Gym-and-Baselines-on-Windows.html)
 * [For When You Want To Learn About Epsilon Decay](https://stackoverflow.com/questions/53198503/epsilon-and-learning-rate-decay-in-epsilon-greedy-q-learning)
-* []()
+* [Of Course The Deep Q Network Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
 ## Thanks
 Thank you to 
