@@ -1,5 +1,9 @@
 # Deep_Q-Learning
 
+## What Files Should I Look At
+* There has been poor use of version control due in part to the newness of google colab to the group. 
+* To view code associated with the latest iteration in our approach to DQN please refer to [Deep_Q_Network.ipynb](https://github.com/BeeGass/Deep-Q-Learning/blob/main/Deep_Q_Network.ipynb). If you want to view the visualization to portions of DQN please refer to [Manim_For_DQN.ipynb](https://github.com/BeeGass/Deep-Q-Learning/blob/main/Manim_For_DQN.ipynb)
+
 ## Resources That Helped
 * [Gym Documentation Is Fantastic](https://gym.openai.com/envs/#toy_text)
 * [cyoon1729's "vanillaDQN" has some incredibly clear and concise code](https://github.com/cyoon1729/deep-Q-networks)
