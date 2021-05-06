@@ -27,3 +27,46 @@ Thank you to
 * @dtkatch
 
 for the late night/early morning help
+
+## Clips 
+
+https://user-images.githubusercontent.com/44324535/117367069-a6631600-ae8f-11eb-99b9-fd7bb431e311.mp4
+
+https://user-images.githubusercontent.com/44324535/117367113-b7ac2280-ae8f-11eb-9885-b7edc8bb42d0.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367122-bbd84000-ae8f-11eb-8981-a8975fc9b7fc.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367127-be3a9a00-ae8f-11eb-91e9-d88d73a87eb9.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367154-c692d500-ae8f-11eb-876c-51868db1fe6a.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367163-c98dc580-ae8f-11eb-9e7e-6c45995cd175.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367185-d3afc400-ae8f-11eb-8055-5feabf01f88c.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367203-dc07ff00-ae8f-11eb-9d71-29ecac574379.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367231-e6c29400-ae8f-11eb-8bfc-ec28f2a0193a.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367237-eb874800-ae8f-11eb-8d73-0d34d1df6a7b.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367241-ecb87500-ae8f-11eb-8b42-8fb668061ab4.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367250-efb36580-ae8f-11eb-918b-8c0e6f253c66.mp4
+
+
+https://user-images.githubusercontent.com/44324535/117367264-f510b000-ae8f-11eb-9846-b07a7e71e9af.mp4
+
+
+
+
